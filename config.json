@@ -6,5 +6,7 @@
     "avatarUrl":"http://meekdai.com/avatar.jpg",
     "faviconUrl":"http://meekdai.com/favicon.ico",
     "singlePage":[],
+    "style":"<style>#postBody{font-size:20px}</style>",
+    "script":"<script async src='//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js'></script>",
     "GMEEK_VERSION":"main"
 }
